@@ -1,46 +1,50 @@
-Restaurant Menu – Figma Design
-Overview
-This project is a Restaurant Menu mobile user interface designed in Figma.
-It features an attractive and modern design for browsing food categories, viewing detailed descriptions, and adding items to a cart.
+# Restaurant Menu – Figma Design
+
+## Overview
+This project is a **Restaurant Menu** mobile user interface designed in **Figma**.  
+It features an attractive and modern design for browsing food categories, viewing detailed descriptions, and adding items to a cart.  
 The menu is designed to be user-friendly, visually appealing, and mobile-optimized.
 
 The design includes:
+- Category-based menu screens
+- Food detail pages with pricing and description
+- High-quality food images for each dish
+- Call-to-action “Add to Cart” buttons
 
-Category-based menu screens
+---
 
-Food detail pages with pricing and description
+## Features
+- **Clean and modern UI** for a pleasant user experience
+- **Category navigation** for quick browsing
+- **Detailed product pages** with prices, descriptions, and images
+- **Mobile-first design** for responsiveness
+- **Easy-to-use search bar**
 
-High-quality food images for each dish
+---
 
-Call-to-action “Add to Cart” buttons
+## Screenshots
 
-Features
-Clean and modern UI for a pleasant user experience
+### Menu – All Items
+![Menu All](./images/menuAll.png)
 
-Category navigation for quick browsing
+### Menu – Pizza Category
+![Menu Pizza](./images/menupizza.png)
 
-Detailed product pages with prices, descriptions, and images
+### Item Detail Screens
+| Item | Screenshot |
+|------|------------|
+| Chocolate Drizzled Dessert Roll | ![Dessert Roll](./images/chocolate_dessert_roll.png) |
+| Steamed Dumplings | ![Dumplings](./images/dumplings.png) |
+| Crispy Fried Chicken | ![Fried Chicken](./images/fried_chicken.png) |
+| Shoyu Ramen | ![Ramen](./images/ramen.png) |
 
-Mobile-first design for responsiveness
+---
 
-Easy-to-use search bar
+## Tools Used
+- **Figma** – UI/UX Design and prototyping  
+- **VS Code** – Documentation and development setup  
 
-Screenshots
-Menu – All Items
+---
 
-Menu – Pizza Category
-
-Item Detail Screens
-Item	Screenshot
-Chocolate Drizzled Dessert Roll	
-Steamed Dumplings	
-Crispy Fried Chicken	
-Shoyu Ramen	
-
-Tools Used
-Figma – UI/UX Design and prototyping
-
-VS Code – Documentation and development setup
-
-Figma Link
-View Figma Design
+## Figma Link
+[View Figma Design](YOUR_FIGMA_LINK_HERE)
